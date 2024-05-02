@@ -710,17 +710,12 @@ go
 
  
 
-CREATE TABLE [Valor] 
-
-( 
-
- [id_valor] Int IDENTITY(1,1) NOT NULL, 
-
- [fecha] Date NOT NULL, 
-
- [descripcion] Text NOT NULL 
-
-) 
+CREATE   TABLE [Valor] (
+    [id_valor] Int IDENTITY(1,1) NOT NULL,
+    [fecha] Date NOT NULL,
+    [descripcion] Text NOT NULL,
+    [monto_dinero] Decimal(18, 2) NOT NULL
+);
 
 go 
 
