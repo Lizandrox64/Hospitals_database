@@ -3,7 +3,7 @@
 <body>
   <div class="container">
     <h1>¡Bienvenido al Trabajo de Administración de Bases de Datos!</h1>
-    <p>Estimado profesor adjunto, aquí tienes el trabajo:</p>
+    <p>Estimado profesor adjunto el trabajo:</p>
     <ul>
       <li>
         <h1>En este apartado se encuentran todos los insert requeridos en formato Query para SQL Server</h1>
