@@ -13,6 +13,7 @@
         <!-- Aquí puedes agregar tus inserts en formato Query -->
         <pre><code>INSERT INTO NombreDeLaTabla (columna1, columna2, ...) VALUES (valor1, valor2, ...);</code></pre>
         <pre><code>INSERT INTO OtraTabla (columna1, columna2, ...) VALUES (valor1, valor2, ...);</code></pre>
+        <img src="C:\Users\Lizandro\OneDrive - Aiep\Documents\Toad Data Modeler\Standard Installation\Exported Files" alt="Modelo de datos ">
       </li>
     </ul>
   </div>
