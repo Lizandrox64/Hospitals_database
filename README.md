@@ -1,7 +1,5 @@
 
-  <h1>Trabajo de Administración de Bases de Datos</h1>
-
-</head>
+ </head>
 <body>
   <div class="container">
     <h1>¡Bienvenido al Trabajo de Administración de Bases de Datos!</h1>
@@ -11,8 +9,9 @@
         <h1>En este apartado se encuentran todos los insert requeridos en formato Query para SQL Server</h1>
         <p>A continuación se muestran los inserts:</p>
         <!-- Aquí puedes agregar tus inserts en formato Query -->
-        <pre><code>INSERT INTO NombreDeLaTabla (columna1, columna2, ...) VALUES (valor1, valor2, ...);</code></pre>
-        <pre><code>INSERT INTO OtraTabla (columna1, columna2, ...) VALUES (valor1, valor2, ...);</code></pre>
+        <pre><code>Aqui vendran las vistas </code></pre>
+        <pre><code>select * from Alergia</code></pre>
+        <pre><code>En este apartado vendran los triggers;</code></pre>
         <img src="C:\Users\Lizandro\OneDrive - Aiep\Documents\Toad Data Modeler\Standard Installation\Exported Files" alt="Modelo de datos ">
       </li>
     </ul>
