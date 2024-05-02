@@ -1,0 +1,26 @@
+
+INSERT INTO Persona (rut, fecha_nacimiento, nombre_1, nombre_2, apellido_1, apellido_2) 
+VALUES 
+('12345678-9', '2000-01-01', 'Juan', 'Andrés', 'González', 'Pérez'),
+('98765432-1', '1995-02-15', 'María', 'Isabel', 'Martínez', 'López'),
+('45678901-2', '1987-03-30', 'Carlos', 'Alberto', 'Sánchez', 'Díaz'),
+('23456789-0', '1978-04-10', 'Ana', 'María', 'Rodríguez', 'Gómez'),
+('34567890-1', '1990-05-20', 'Pedro', 'Pablo', 'López', 'Fernández'),
+('56789012-3', '1985-06-25', 'Luis', 'Felipe', 'Hernández', 'García'),
+('67890123-4', '1999-07-05', 'Marta', 'Carmen', 'Gómez', 'Martínez'),
+('89012345-5', '2001-08-15', 'Sofía', 'Alejandra', 'Pérez', 'González'),
+('90123456-6', '1993-09-20', 'Diego', 'Andrés', 'Fernández', 'Sánchez'),
+('01234567-7', '1980-10-01', 'Laura', 'Camila', 'Martínez', 'López'),
+('11223344-8', '1975-11-10', 'Javier', 'Ignacio', 'González', 'Pérez'),
+('22446688-9', '2002-12-05', 'Gabriela', 'Fernanda', 'Sánchez', 'Díaz'),
+('33445566-1', '1996-01-15', 'José', 'Manuel', 'Rodríguez', 'Gómez'),
+('44557799-2', '1988-02-20', 'Marcela', 'Antonia', 'López', 'Fernández'),
+('55668800-3', '1979-03-30', 'Cristián', 'Esteban', 'Hernández', 'García'),
+('66779922-4', '1991-04-10', 'Valentina', 'Javiera', 'Gómez', 'Martínez'),
+('77992233-5', '1986-05-20', 'Fernando', 'Alejandro', 'Pérez', 'González'),
+('88991122-6', '2000-06-25', 'Andrea', 'María', 'Fernández', 'Sánchez'),
+('99881122-7', '1994-07-05', 'Isabel', 'Carolina', 'Martínez', 'López'),
+('77889911-8', '1977-08-15', 'Ricardo', 'Andrés', 'González', 'Pérez'),
+('66778899-9', '2003-09-20', 'Natalia', 'Alejandra', 'Sánchez', 'Díaz'),
+('55667788-0', '1992-10-01', 'Andrés', 'Felipe', 'Rodríguez', 'Gómez'),
+('44556677-1', '1981-11-10', 'Carolina', 'Isabel', 'López', 'Fernández');
