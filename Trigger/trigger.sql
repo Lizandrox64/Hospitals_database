@@ -32,6 +32,8 @@ as
 		insert into control values (@usario, getdate(),'Actualizacion');
 end;
 
+update Personal set id_especialidad = 1 where id_cargo = 2;
+
 --Borrado de datos de la tabla personal 
 
 Create or alter trigger tgr_Desvinculacion
