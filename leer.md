@@ -12,7 +12,7 @@
         <pre><code>Aqui vendran las vistas </code></pre>
         <pre><code>select * from Alergia</code></pre>
         <pre><code>En este apartado vendran los triggers;</code></pre>
-        <img src="C:\Users\Lizandro\OneDrive - Aiep\Documents\Toad Data Modeler\Standard Installation\Exported Files" alt="Modelo de datos ">
+        <img src="https://raw.githubusercontent.com/Lizandrox64/Hospitals_database/master/modelo.jpeg" alt="Modelo de datos ">
       </li>
     </ul>
   </div>
