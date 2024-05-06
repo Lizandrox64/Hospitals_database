@@ -24,7 +24,7 @@ end;
 
 Create or alter trigger tgr_Actualizacion_personal
 on personal
-after insert
+after UPDATE
 as 
 	begin
 		declare @usario varchar (30);
@@ -38,7 +38,7 @@ update Personal set id_especialidad = 1 where id_cargo = 2;
 
 Create or alter trigger tgr_Desvinculacion
 on personal
-after insert
+after DELETE
 as 
 	begin
 		declare @usario varchar (30);
